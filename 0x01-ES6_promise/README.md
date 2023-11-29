@@ -1,0 +1,2 @@
+0x01. ES6 Promises
+In summary, Promises provide a clean way to work with asynchronous code, and the then, catch, and finally methods help handle asynchronous results and errors. The await operator simplifies working with promises inside async functions, and Promise.all is useful for handling multiple promises concurrently. The try...catch block helps to handle errors in synchronous code, especially when working with asynchronous operations.
