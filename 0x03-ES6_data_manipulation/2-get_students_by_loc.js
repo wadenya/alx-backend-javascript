@@ -1,3 +1,3 @@
 export default function getStudentsByLocation(student, city) {
-  return students.filter((student) => student.location.locatcomp(city) === 0);
+  return students.filter((student) => student.location.localeCompare(city) === 0);
 }
